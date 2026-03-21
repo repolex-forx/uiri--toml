@@ -107,6 +107,28 @@
         "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
         "blob/fbdef1c82e3659e0a8e240c7ac4db359a7d5bd10.nq.gz",
         "blob/9c20c41a1b9bcdb641dc52865bce04ccdb8f046c.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/a86fc1fbd650a19eba313c3f642c9e2c679dc8d6.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/a86fc1fbd650a19eba313c3f642c9e2c679dc8d6.nq.gz",
+      "repolex": "aggregate/repolex/a86fc1fbd650a19eba313c3f642c9e2c679dc8d6.nq.gz",
+      "dep": "dep/a86fc1fbd650a19eba313c3f642c9e2c679dc8d6.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "toml",
+          "packageVersion": "0.9.6",
+          "githubOrg": "uiri",
+          "githubRepo": "toml",
+          "githubCommit": "d31df32683212274a83e79736c143cc388796b49"
+        },
+        {
+          "packageName": "pytest",
+          "packageVersion": "9.0.2",
+          "githubOrg": "pytest-dev",
+          "githubRepo": "pytest",
+          "githubCommit": "3d10b5148e03eb82b3ee29181dbdc73cf82699e2"
+        }
       ]
     }
   ],
