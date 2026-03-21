@@ -1121,6 +1121,21 @@
         "blob/9c20c41a1b9bcdb641dc52865bce04ccdb8f046c.nq.gz",
         "blob/b65ae72ef40810f37371ecd90f58b73754755e93.nq.gz",
         "blob/e2f2492dc1014b1b2383aef0227216dda67bf7d1.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/98954c4e682ada3cb73bbe12e90b7b2178885a2f.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/98954c4e682ada3cb73bbe12e90b7b2178885a2f.nq.gz",
+      "repolex": "aggregate/repolex/98954c4e682ada3cb73bbe12e90b7b2178885a2f.nq.gz",
+      "dep": "dep/98954c4e682ada3cb73bbe12e90b7b2178885a2f.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "toml",
+          "packageVersion": "0.9.6",
+          "githubOrg": "uiri",
+          "githubRepo": "toml",
+          "githubCommit": "d31df32683212274a83e79736c143cc388796b49"
+        }
       ]
     }
   ],
