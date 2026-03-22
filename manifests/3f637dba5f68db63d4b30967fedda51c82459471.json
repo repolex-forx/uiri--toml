@@ -1,0 +1,29 @@
+{
+  "commit": "3f637dba5f68db63d4b30967fedda51c82459471",
+  "files": {
+    "repolex": {
+      "path": "aggregate/repolex/3f637dba5f68db63d4b30967fedda51c82459471.nq.gz",
+      "size_bytes": 627160
+    },
+    "dep": {
+      "path": "dep/3f637dba5f68db63d4b30967fedda51c82459471.nq.gz",
+      "size_bytes": 452
+    }
+  },
+  "dependencies": [
+    {
+      "packageName": "pytest",
+      "packageVersion": "9.0.2",
+      "githubOrg": "pytest-dev",
+      "githubRepo": "pytest",
+      "githubCommit": "3d10b5148e03eb82b3ee29181dbdc73cf82699e2"
+    },
+    {
+      "packageName": "toml",
+      "packageVersion": "0.9.6",
+      "githubOrg": "uiri",
+      "githubRepo": "toml",
+      "githubCommit": "d31df32683212274a83e79736c143cc388796b49"
+    }
+  ]
+}
