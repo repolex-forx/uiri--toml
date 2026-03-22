@@ -3,6 +3,11 @@
   "repo": "toml",
   "versions": [
     {
+      "commit": "25c1c126ea6d7a39c1b25333af2d5e54621b6e8e",
+      "tag": "",
+      "parsed_at": ""
+    },
+    {
       "commit": "3f637dba5f68db63d4b30967fedda51c82459471",
       "tag": "",
       "parsed_at": ""
