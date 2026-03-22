@@ -1,0 +1,22 @@
+{
+  "commit": "98954c4e682ada3cb73bbe12e90b7b2178885a2f",
+  "files": {
+    "repolex": {
+      "path": "aggregate/repolex/98954c4e682ada3cb73bbe12e90b7b2178885a2f.nq.gz",
+      "size_bytes": 323757
+    },
+    "dep": {
+      "path": "dep/98954c4e682ada3cb73bbe12e90b7b2178885a2f.nq.gz",
+      "size_bytes": 345
+    }
+  },
+  "dependencies": [
+    {
+      "packageName": "toml",
+      "packageVersion": "0.9.6",
+      "githubOrg": "uiri",
+      "githubRepo": "toml",
+      "githubCommit": "d31df32683212274a83e79736c143cc388796b49"
+    }
+  ]
+}
