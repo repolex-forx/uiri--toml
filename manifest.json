@@ -2195,7 +2195,7 @@
     },
     {
       "commit": "65566d8afbf72d11109b504c0f3addf534c40ca1",
-      "parsed_at": "2026-03-21T05:59:14.051546+00:00",
+      "parsed_at": "2026-03-23T03:39:19.731870+00:00",
       "tag": "v0.6.5",
       "filetree": "filetree/65566d8afbf72d11109b504c0f3addf534c40ca1.nq.gz",
       "blobs": [
